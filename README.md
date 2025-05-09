@@ -8,5 +8,6 @@ A new Flutter project created with FlutLab - https://flutlab.io
 
 
 ## Seguidores
-<img width="249" alt="image" src="https://github.com/user-attachments/assets/eb7da99f-bbcd-4df6-ad5d-50c822ae45f1" />
+![image](https://github.com/user-attachments/assets/27a30842-b89e-4d7d-8830-72015285a441)
+
 
