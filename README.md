@@ -2,18 +2,10 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+## Busqueda
+<img width="152" alt="image" src="https://github.com/user-attachments/assets/f077d66b-9fc3-4139-8f05-045301176589" />
+<img width="151" alt="image" src="https://github.com/user-attachments/assets/9c39c519-62ef-4231-8995-670645a5665b" />
 
-A few resources to get you started if this is your first Flutter project:
+## Seguidores
+<img width="149" alt="image" src="https://github.com/user-attachments/assets/eb7da99f-bbcd-4df6-ad5d-50c822ae45f1" />
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
